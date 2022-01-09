@@ -1,10 +1,6 @@
 # Artifiact_01
 <!DOCTYPE html>
-<lang="en">
-<head>
-<title>Resume</title>
-</head>
-<body>
+
 
 <h1>CURRICULUM VITAE CLAUDIA MARTINEZ</h1>
 <hr />
